@@ -1,5 +1,5 @@
 # Homework List
- - [x] Exercise 01
+ - [x] [Exercise 01](https://github.com/Guibeen/compuational_physics_N2014301020066/tree/master)
  - [ ] Exercise 02
  - [ ] Exercise 03
  - [ ] Exercise 04

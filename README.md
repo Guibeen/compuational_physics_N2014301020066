@@ -11,7 +11,7 @@
 
 - [x] [第二次作业](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/Exercises/Exercise02.md)
 
-- [ ] 第三次作业
+- [ ] [第三次作业](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/Exercises/Exercise03.md)
 
 - [ ] 第四次作业
 

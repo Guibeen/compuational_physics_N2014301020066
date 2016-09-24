@@ -15,7 +15,7 @@
 ####代码
 ！[作业三-L1-代码截图]（）
 
-[链接]()
+[链接](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/codes/Exercise03-L1)
 ####运行结果
 ！[作业三-L1-结果截图]（）
 

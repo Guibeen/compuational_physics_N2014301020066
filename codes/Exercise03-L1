@@ -1,0 +1,17 @@
+import time 
+import os
+os.system('cls')
+print("My English name is 'Guibean'")
+time.sleep(1)
+os.system('cls')
+for i in range(0,20):
+    print(i*' '+'                                                 ')
+    print(i*' '+' ###            #   #                            ')
+    print(i*' '+'#                   #                            ')
+    print(i*' '+'#       #  #    #   #        ###     ##      ### ')
+    print(i*' '+'#  ##   #  #    #   ####    #   #   #  #    #   #')
+    print(i*' '+'#   #   #  #    #   #   #   #####   #  #    #   #')
+    print(i*' '+'#   #   #  #    #   #   #   #       #  #    #   #')
+    print(i*' '+' ###     ## #   #   ####     ###     ## #   #   #')
+    time.sleep(0.2)
+    os.system('cls')

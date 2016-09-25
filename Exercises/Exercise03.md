@@ -107,5 +107,7 @@ os.system('cls')
 ```
 ####运行结果
 ![结果](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/%E4%BD%9C%E4%B8%9A%E4%B8%89-L2-%E7%BB%93%E6%9E%9C.gif)
-###Thanks for
+####感谢
 rfhongyi提供的算法
+####讨论
+此程序中有以下不足(以后将改进)：1,旋转后横纵改变，使得心形图案在垂直对称轴方向严重拉伸变形；2,只能旋转90度，不能转满一周。

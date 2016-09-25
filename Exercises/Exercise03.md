@@ -22,3 +22,88 @@
 ---
 ##L2
 ####思路
+####代码
+```python
+import os
+import time
+a=['                                    '
+  ,'                                    '
+  ,'                                    '
+  ,'                                    ' 
+  ,'                                    '
+  ,'                                    '
+  ,'                                    '
+  ,'                                    '
+  ,'                                    '
+  ,'                                    '
+  ,'      ####                ####      '
+  ,'    #       ##        ##       #    '
+  ,'  #            ##  ##            #  '
+  ,' #               ##               # '
+  ,'#                                  #'
+  ,' #                                # '
+  ,'   #                            #   '
+  ,'     #                        #     '
+  ,'       #                    #       '
+  ,'         #                #         '
+  ,'           #            #           '
+  ,'             #        #             '
+  ,'               #    #               '
+  ,'                 ##                 '
+  ,'                                    '
+  ,'                                    '
+  ,'                                    '
+  ,'                                    '
+  ,'                                    '
+  ,'                                    '
+  ,'                                    '
+  ,'                                    '
+  ,'                                    '
+  ,'                                    '
+  ,'                                    '] 
+for i in range(len(a)):
+    print (a[i])
+time.sleep(1)
+os.system('cls')
+for j in range(36):
+    con2=''
+    for i in range(len(a)):
+        con2=con2+a[i][j]
+    print (con2)   
+time.sleep(1) 
+os.system('cls')   
+for i in range(len(a)):
+    print (a[i])  
+time.sleep(1) 
+os.system('cls')    
+for j in range(36):
+    con2=''
+    for i in range(len(a)):
+        con2=con2+a[i][j]
+    print (con2)   
+time.sleep(1) 
+os.system('cls') 
+for i in range(len(a)):
+    print (a[i])
+time.sleep(1)
+os.system('cls')
+for j in range(36):
+    con2=''
+    for i in range(len(a)):
+        con2=con2+a[i][j]
+    print (con2)   
+time.sleep(1) 
+os.system('cls')   
+for i in range(len(a)):
+    print (a[i])  
+time.sleep(1) 
+os.system('cls')    
+for j in range(36):
+    con2=''
+    for i in range(len(a)):
+        con2=con2+a[i][j]
+    print (con2)   
+time.sleep(1) 
+os.system('cls')
+```
+####运行结果

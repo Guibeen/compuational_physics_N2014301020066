@@ -107,3 +107,4 @@ time.sleep(1)
 os.system('cls')
 ```
 ####运行结果
+![结果]()

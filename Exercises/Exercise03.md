@@ -21,7 +21,6 @@
 
 ---
 ##L2
-####思路
 ####代码
 ```python
 import os
@@ -107,4 +106,6 @@ time.sleep(1)
 os.system('cls')
 ```
 ####运行结果
-![结果]()
+![结果](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/%E4%BD%9C%E4%B8%9A%E4%B8%89-L2-%E7%BB%93%E6%9E%9C.gif)
+###Thanks for
+rfhongyi提供的算法

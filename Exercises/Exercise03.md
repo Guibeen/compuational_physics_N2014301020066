@@ -13,11 +13,11 @@
 ####思路
 在输出名字的基础上加入一个循环，使得：每进行一次循环，便让输出名字的点阵总体向后移动一格（在其前面多输出一个空格）,并加入清屏函数与演示函数，使其呈现移动的效果。
 ####代码
-！[L1-代码截图]（https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/%E4%BD%9C%E4%B8%9A%E4%B8%89-L1-%E4%BB%A3%E7%A0%81.png）
+！[L1-代码](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/%E4%BD%9C%E4%B8%9A%E4%B8%89-L1-%E4%BB%A3%E7%A0%81.png)
 
 [链接](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/codes/Exercise03-L1)
 ####运行结果
-！[L1-结果截图]（https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/%E4%BD%9C%E4%B8%9A%E4%B8%89-L1-%E7%BB%93%E6%9E%9C.gif）
+！[L1-结果](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/%E4%BD%9C%E4%B8%9A%E4%B8%89-L1-%E7%BB%93%E6%9E%9C.gif)
 
 ---
 ##L2

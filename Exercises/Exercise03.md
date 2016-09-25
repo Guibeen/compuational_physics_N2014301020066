@@ -17,7 +17,7 @@
 
 [链接](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/codes/Exercise03-L1)
 ####运行结果
-！[作业三-L1-结果截图]（）
+！[作业三-L1-结果截图]（https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/%E4%BD%9C%E4%B8%9A%E4%B8%89-L1-%E7%BB%93%E6%9E%9C.gif）
 
 ---
 ##L2

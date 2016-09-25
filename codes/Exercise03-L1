@@ -13,5 +13,5 @@ for i in range(0,20):
     print(i*' '+'#   #   #  #    #   #   #   #####   #  #    #   #')
     print(i*' '+'#   #   #  #    #   #   #   #       #  #    #   #')
     print(i*' '+' ###     ## #   #   ####     ###     ## #   #   #')
-    time.sleep(0.2)
+    time.sleep(0.5)
     os.system('cls')

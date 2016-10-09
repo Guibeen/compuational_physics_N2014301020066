@@ -1,4 +1,4 @@
-# 姚贵斌 的作业本
+  姚贵斌 的作业本
 ####学号： 2014301020066
 
 
@@ -13,7 +13,7 @@
 
 - [ ] [第三次作业](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/Exercises/Exercise03.md)
 
-- [ ] [第四次作业](https://www.zybuluo.com/Guibeen/note/525729) 
+- [x] [第四次作业](https://www.zybuluo.com/Guibeen/note/525729) 
 
 - [ ] 第五次作业
 

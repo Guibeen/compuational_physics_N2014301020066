@@ -17,7 +17,7 @@
 
 - [x] [第五次作业](https://www.zybuluo.com/Guibeen/note/507130)
 
-- [ ] 第六次作业
+- [ ] [第六次作业](https://www.zybuluo.com/Guibeen/note/541130)
 
 - [ ] 第七次作业
 

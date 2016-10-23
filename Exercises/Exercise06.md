@@ -11,6 +11,7 @@
 ##正文
 
 ![背景](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/06/%E4%BD%9C%E4%B8%9A%E5%85%AD-%E5%8E%9F%E7%90%861.png)
+######其中a取6.5e-3K/M,α取2.5
 
 ####欧勒法
 

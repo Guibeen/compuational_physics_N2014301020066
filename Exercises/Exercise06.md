@@ -14,4 +14,4 @@
 
 ###欧勒法
 
-![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/06/%E4%BD%9C%E4%B8%9A%E5%85%AD-%E6%AC%A7%E5%8B%92%E6%B3%95.pn)
+![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/06/%E4%BD%9C%E4%B8%9A%E5%85%AD-%E6%AC%A7%E5%8B%92%E6%B3%95.png)

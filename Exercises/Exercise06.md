@@ -78,4 +78,4 @@ print('angle:'+str(amin)+'°')
 ![结果图2](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/06/%E4%BD%9C%E4%B8%9A%E5%85%AD-%E7%BB%93%E6%9E%9C2.png)
 
 ##感谢
-rfhongyi提供的算法。
+[rfhongyi](https://github.com/rfhongyi)提供的算法。

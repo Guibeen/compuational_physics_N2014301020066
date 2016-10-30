@@ -20,7 +20,6 @@
 ![](http://latex.codecogs.com/png.latex?%5Comega_%7Bi&plus;1%7D%3D%5Comega_i-%28g/l%29%5Ctheta_i%5CDelta%20t)
 
 ![](http://latex.codecogs.com/png.latex?%5Ctheta_%7Bi&plus;1%7D%3D%5Ctheta_i&plus;%5Comega_%7Bi&plus;1%7D%5CDelta%20t)
-
 ![](http://latex.codecogs.com/png.latex?t_%7Bi&plus;1%7D%3Dt_i&plus;%5CDelta%20t)
 
 为不失一般性，去掉小角近似，并引入空气阻尼![](http://latex.codecogs.com/png.latex?-q%5Cdot%5Ctheta),以及外加驱动力
@@ -40,7 +39,7 @@
 当![](http://latex.codecogs.com/png.latex?%5Ctheta_%7Bi&plus;1%7D%5Cnotin%5B-%5Cpi%2C%5Cpi%5D)时，增加或减去2![](http://latex.codecogs.com/png.latex?%5Cpi)即可。
 
 ##正文
-####3.12：课本图3.9只描出了驱动力相位为2nπ的时刻的点，在此描出动力相位为一些另外的值（如2nπ-π/4，2nπ+π/2）时的点。（n为整数）
+####习题3.12：课本图3.9只描出了驱动力相位为2nπ的时刻的点，在此描出动力相位为一些另外的值（如2nπ-π/4，2nπ+π/2）时的点。（n为整数）
 
 [代码](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/codes/07/3.12.py)
 
@@ -60,7 +59,9 @@
 
 ![负四分之派](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/07/3.12-%E8%B4%9F%E5%9B%9B%E5%88%86%E4%B9%8B%E6%B4%BE.png)
 
+####习题3.13：两个完全一样的摆，但有一个很小的初始角度差（设为0.001弧度）。
 
+####习题3.14：两个除了摩擦因数有细微差别之外，其他完全相同的摆。
 
 
 

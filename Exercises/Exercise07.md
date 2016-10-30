@@ -40,7 +40,7 @@
 当![](http://latex.codecogs.com/png.latex?%5Ctheta_%7Bi&plus;1%7D%5Cnotin%5B-%5Cpi%2C%5Cpi%5D)时，增加或减去2![](http://latex.codecogs.com/png.latex?%5Cpi)即可。
 
 ##正文
-3.12：课本图3.9只描出了驱动力相位为2nπ的时刻的点，在此描出动力相位为一些另外的值（如2nπ-π/4，2nπ+π/2）时的点。（n为整数）
+####3.12：课本图3.9只描出了驱动力相位为2nπ的时刻的点，在此描出动力相位为一些另外的值（如2nπ-π/4，2nπ+π/2）时的点。（n为整数）
 
 [代码](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/codes/07/3.12.py)
 

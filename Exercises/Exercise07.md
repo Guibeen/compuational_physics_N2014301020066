@@ -17,7 +17,7 @@
 
 欧勒-克罗默方法：
 
-![]()
+![](http://latex.codecogs.com/png.latex?%5Comega_%7Bi&plus;1%7D%3D%5Comega_i-%28g/l%29%5Ctheta_i%5CDelta%20t)
 
 ![](http://latex.codecogs.com/png.latex?%5Ctheta_%7Bi&plus;1%7D%3D%5Ctheta_i&plus;%5Comega_%7Bi&plus;1%7D%5CDelta%20t)
 ![](http://latex.codecogs.com/png.latex?t_%7Bi&plus;1%7D%3Dt_i&plus;%5CDelta%20t)

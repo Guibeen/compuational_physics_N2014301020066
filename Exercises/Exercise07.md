@@ -37,10 +37,12 @@
 ![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/07/3-13-FD0.5.png)
 
 ![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/07/3-13-0.5-1.png)
+![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/07/3-13-0.5-2.png)
 
 ![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/07/3-13-FD1.2.png)
 
 ![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/07/3-13-1.2-1.png)
+![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/07/3-13-1.2-2.png)
 
 ####习题3.14：两个除了摩擦因数有细微差别之外，其他完全相同的摆。
 

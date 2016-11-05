@@ -48,9 +48,15 @@
 
 [代码](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/codes/07/3.14.py)
 
+![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/07/3-13-FD0.5.png)
 
+![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/07/3-14-FD0.5.png)
 
+![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/07/3-13-FD1.2.png)
 
+![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/07/3-14-FD1.2-1.png)
+
+![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/07/3-14-FD1.2-2.png)
 
 
 

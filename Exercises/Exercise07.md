@@ -19,6 +19,7 @@
 ![二分之派](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/07/3.12-%E4%BA%8C%E5%88%86%E4%B9%8B%E6%B4%BE.png)
 
 当相位为-π/2时：
+
 ![负二分之派](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/07/3.12-%E8%B4%9F%E4%BA%8C%E5%88%86%E4%B9%8B%E6%B4%BE.png)
 
 当相位为π/4时：

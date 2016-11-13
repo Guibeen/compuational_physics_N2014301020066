@@ -25,6 +25,8 @@
 ![1.4-1](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/08/1.4-1.png)
 ![1.44-1](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/08/1.44-1.png)
 ![1.465-1](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/08/1.465-1.png)
+驱动力为1.35时，摆的频率和驱动力一致；当其幅度增加到1.4、1.44时，摆的周期变为驱动力的两倍；而幅度再增加到1.465时，摆的周期进一步增加到驱动力的四倍。
+照此趋势，当驱动力幅度增加到某一值时，摆的周期将变为驱动力的无数倍，即不再是周期性运动，为混沌状态。
 
 ![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_white%20%5Comega-%5Ctheta)关系：
 
@@ -34,12 +36,24 @@
 
 ![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_white%20F_D%3D1.35)时：
 
+![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/08/1.35-2.png)
 
+![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_white%20F_D%3D1.4)时：
 
+![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/08/1.4-2.png)
 
+![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_white%20F_D%3D1.44)时：
 
-
+![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/08/1.44-2.png)
 
 ![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_white%20F_D%3D1.465)时
 
 ![18-2](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/08/18-2.png)
+
+可见代码2的算法存在着一些问题，使得其图像不是孤立的点而变为直线。事实上由于π是无理数，计算机在计算式无法给出精确的数值。每次计算都会积累小的偏差，所以逐渐延长为线段。将算法做改进后，得出的点变为孤立的。
+
+[代码3](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/codes/08/18-3.py)
+
+下图中显示的是![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_white%20F_D%3D1.2%2CF_D%3D1.4%2CF_D%3D1.44%2CF_D%3D1.465)对应的图像。
+
+![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/08/%E5%80%8D%E5%91%A8%E6%9C%9F.png)

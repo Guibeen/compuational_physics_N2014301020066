@@ -29,3 +29,17 @@
 ![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_white%20%5Comega-%5Ctheta)关系：
 
 [代码2](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/codes/08/18-2.py)
+
+结果：
+
+![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_white%20F_D%3D1.35)时：
+
+
+
+
+
+
+
+![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_white%20F_D%3D1.465)时
+
+![18-2](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/08/18-2.png)

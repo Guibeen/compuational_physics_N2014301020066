@@ -21,7 +21,7 @@
 
 - [x] [第七次作业](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/Exercises/Exercise07.md)
 
-- [ ] 第八次作业(https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/Exercises/Exercise08.md)
+- [ ] [第八次作业](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/Exercises/Exercise08.md)
 
 - [ ] 第九次作业
 

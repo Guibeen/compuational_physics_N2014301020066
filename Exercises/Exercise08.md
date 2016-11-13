@@ -25,3 +25,7 @@
 ![1.4-1](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/08/1.4-1.png)
 ![1.44-1](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/08/1.44-1.png)
 ![1.465-1](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/08/1.465-1.png)
+
+![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_white%20%5Comega-%5Ctheta)关系：
+
+[代码2](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/codes/08/18-2.py)

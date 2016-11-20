@@ -39,6 +39,7 @@
 
 ![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20%5Cvec%7Bv%7D_f%3D%5Cvec%7Bv%7D_%7Bf%2Cx%7D%5Chat%7Bi%7D&plus;%5Cvec%7Bv%7D_%7Bf%2Cy%7D%5Chat%7Bj%7D)
 
+
 并记![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20%5Chat%7Bn%7D%3Da%5Chat%7Bi%7D&plus;b%5Chat%7Bj%7D)
 
 解出碰撞后的速度分量：
@@ -65,9 +66,27 @@
 
 ###圆形边界
 
+[代码](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/codes/09/3.31-circular.py)
 
+![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/09/%E5%9C%86%E5%BD%A2%E5%8C%BA%E5%9F%9F.png)
 
+y=0处的相空间：
+![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/09/%E5%9C%86%E5%BD%A2-%E7%9B%B8%E7%A9%BA%E9%97%B4.png)
 
+###“田径场”型边界
+圆形是作为田径场的特例(a=0)。而更一般的，当a不为零时：
+
+![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/09/%E4%BD%93%E8%82%B2%E5%9C%BA.png)
+
+几个不同a值对应的在y=0处的相空间图像：
+
+![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/09/a%3D0.png)
+![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/09/a%3D0.001.png)
+
+![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/09/a%3D0.01.png)
+![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/09/a%3D0.1.png)
+
+可见：当a为零或较小(0.001左右)时，从相空间来看至少是有规律的；而当其大于0.01后，混沌效应越来越明显。
 
 
 

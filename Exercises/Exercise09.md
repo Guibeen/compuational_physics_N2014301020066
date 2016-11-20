@@ -40,7 +40,7 @@
 
 
 并记![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20%5Chat%7Bn%7D%3Da%5Chat%7Bi%7D&plus;b%5Chat%7Bj%7D)
-*
+
 解出碰撞后的速度分量：
 
 ![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20v_%7Bf%2Cx%7D%3D%281-2a%5E2%29v_%7Bi%2Cx%7D-2abv_%7Bi%2Cy%7D)
@@ -96,6 +96,8 @@ y=0处的相空间：
 ![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/09/%E7%8E%AF%E5%BD%A2%E7%A3%81%E5%9C%BA.png)
 
 ###关于混合场中的运动
+
+![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/09/%E6%B7%B7%E5%90%88%E5%9C%BA.png)
 
 这是高中物理竞赛是曾经碰到的问题。带电粒子以某一初速度入射匀强电场与匀强磁场的混合场中，，不计重力。匀强电场和匀强磁场的方向垂直(或至少有垂直的分量)，且入射带电粒子的方向与磁场方向垂直。求例子以后的运动。
 

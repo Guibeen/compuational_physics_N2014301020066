@@ -88,10 +88,13 @@ y=0处的相空间：
 
 可见：当a为零或较小(0.001左右)时，从相空间来看至少是有规律的；而当其大于0.01后，混沌效应越来越明显。
 
+###带电粒子在环形匀强磁场区域
 
+考虑较为简单的情况：粒子带单位正电荷，荷质比为1.6C/kg，匀强磁场方向垂直于运动平面射向观测者。
 
+[代码](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/codes/09/3.31-magnetic%20field.py)
 
-
+![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/09/%E7%8E%AF%E5%BD%A2%E7%A3%81%E5%9C%BA.png)
 
 
 

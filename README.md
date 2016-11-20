@@ -23,7 +23,7 @@
 
 - [x] [第八次作业](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/Exercises/Exercise08.md)
 
-- [ ] 第九次作业
+- [ ] [第九次作业](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/Exercises/Exercise09.md)
 
 - [ ] 第十次作业
 

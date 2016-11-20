@@ -24,6 +24,7 @@
 ![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20%5Cvec%7Bv%7D_%7Bi%2C%5Cperp%7D%3D%28%5Cvec%7Bv%7D_i%5Ccdot%20%5Chat%7Bn%7D%29%5Chat%7Bn%7D)
 
 ![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20%5Cvec%7Bv%7D_%7Bi%2C%5Cparallel%20%7D%3D%5Cvec%7Bv%7D_i-%5Cvec%7Bv%7D_%7Bi%2C%5Cperp%7D)
+
 由于是完全弹性碰撞，入射角与反射角相等，因此碰撞后：
 
 ![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20%5Cvec%7Bv%7D_%7Bf%2C%5Cperp%20%7D%3D-%5Cvec%7Bv%7D_%7Bi%2C%5Cperp%20%7D)
@@ -113,13 +114,13 @@ y=0处的相空间：
 
 ![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/09/%E5%B1%8F%E5%B9%95%E6%8D%95%E8%8E%B7_2016_11_21_01_14_53_804.png)
 
-越向下运动半径越大(说明速度在变大)，似乎出了欧勒法处理单摆的时候的一样的问题。。。那就用欧勒-克罗默方法再来一次
+越向下运动半径越大(说明速度在变大)，应该是和用欧勒法处理单摆的时候的一样的问题。。。那就用欧勒-克罗默方法再来一次
 
 [代码](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/codes/09/3.31-mixed%20field-2.0.py)
 
 ![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/09/%E5%AE%8C%E7%BE%8E%EF%BC%81.png)
 
-
+匀速圆周分运动的半径保持不变。
 
 
 

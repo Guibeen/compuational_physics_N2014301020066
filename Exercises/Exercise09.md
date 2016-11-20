@@ -114,7 +114,22 @@ y=0处的相空间：
 
 ![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/09/%E5%B1%8F%E5%B9%95%E6%8D%95%E8%8E%B7_2016_11_21_01_14_53_804.png)
 
-越向下运动半径越大(说明速度在变大)，应该是和用欧勒法处理单摆的时候的一样的问题。。。那就用欧勒-克罗默方法再来一次
+越向下运动半径越大(说明速度在变大)，应该是和用欧勒法处理单摆的时候的一样的问题。。。
+
+------
+分析--由欧勒法：
+
+![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20x_%7Bi&plus;1%7D%3Dx_i&plus;v_%7Bx%2Ci%7D%5CDelta%20t)
+
+![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20y_%7Bi&plus;1%7D%3Dy_i&plus;v_%7By%2Ci%7D%5CDelta%20t)
+
+![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20v_%7Bx%2Ci&plus;1%7D%3Dv_%7Bx%2Ci%7D&plus;%5B%28qv_%7By%2Ci%7DB&plus;qE%29/m%5D%5CDelta%20t)
+
+![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20v_%7By%2Ci&plus;1%7D%3Dv_%7By%2Ci%7D-%28qv_%7By%2Ci%7DB/m%29%5CDelta%20t)
+
+若取
+------
+那就用欧勒-克罗默方法再来一次
 
 [代码](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/codes/09/3.31-mixed%20field-2.0.py)
 

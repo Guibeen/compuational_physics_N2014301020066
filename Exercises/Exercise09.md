@@ -49,6 +49,7 @@
 ![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20v_%7Bf%2Cy%7D%3D%281-2b%5E2%29v_%7Bi%2Cy%7D-2abv_%7Bi%2Cx%7D)
 
 ###正方形边界
+
 [代码](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/codes/09/3.31-square.py)
 
 当y方向速度是x方向速度的整数倍时，系统呈现周期性，与四条边界的交点数是固定的有限个孤立点；倍数越大，交点越多：
@@ -71,6 +72,7 @@
 ![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/09/%E5%9C%86%E5%BD%A2%E5%8C%BA%E5%9F%9F.png)
 
 y=0处的相空间：
+
 ![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/09/%E5%9C%86%E5%BD%A2-%E7%9B%B8%E7%A9%BA%E9%97%B4.png)
 
 ###“田径场”型边界
@@ -117,6 +119,7 @@ y=0处的相空间：
 越向下运动半径越大(说明速度在变大)，应该是和用欧勒法处理单摆的时候的一样的问题。。。
 
 ------
+
 分析--由欧勒法：
 
 ![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20x_%7Bi&plus;1%7D%3Dx_i&plus;v_%7Bx%2Ci%7D%5CDelta%20t)
@@ -127,7 +130,18 @@ y=0处的相空间：
 
 ![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20v_%7By%2Ci&plus;1%7D%3Dv_%7By%2Ci%7D-%28qv_%7By%2Ci%7DB/m%29%5CDelta%20t)
 
-若取
+若取x=0处电势能为零，则有
+
+![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20E_i%3D-qEx_i&plus;%5Cfrac%7B1%7D%7B2%7Dm%28v_%7Bx%2Ci%7D%5E2&plus;v_%7By%2Ci%7D%5E2%29)
+
+![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20E_%7Bi&plus;1%7D%3D-qEx_%7Bi&plus;1%7D&plus;%5Cfrac%7B1%7D%7B2%7Dm%28v_%7Bx%2C%7Bi&plus;1%7D%7D%5E2&plus;v_%7By%2C%7Bi&plus;1%7D%7D%5E2%29)
+
+计算得到
+
+![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20E_%7Bi&plus;1%7D-E_i%3D%5Cfrac%7B1%7D%7B2m%7D%5B%28qv_%7By%2Ci%7DB&plus;qE%29%5E2&plus;%28qv_%7Bx%2Ci%7DB%29%5E2%5D%28%5CDelta%20t%29%5E2%5Cgeqslant%200)
+
+即总能量不守恒。
+
 ------
 那就用欧勒-克罗默方法再来一次
 
@@ -135,8 +149,10 @@ y=0处的相空间：
 
 ![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/09/%E5%AE%8C%E7%BE%8E%EF%BC%81.png)
 
-匀速圆周分运动的半径保持不变。
+可见匀速圆周分运动的半径保持不变！
 
+
+##致谢
 
 
 

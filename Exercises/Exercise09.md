@@ -47,10 +47,23 @@
 
 ![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20v_%7Bf%2Cy%7D%3D%281-2b%5E2%29v_%7Bi%2Cy%7D-2abv_%7Bi%2Cx%7D)
 
+###正方形边界
+[代码](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/codes/09/3.31-square.py)
 
+当y方向速度是x方向速度的整数倍时，系统呈现周期性，与四条边界的交点数是固定的有限个孤立点；倍数越大，交点越多：
 
+![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/09/%E6%A8%AA%E4%B8%80%E7%BA%B5%E5%9B%9B.png)
+![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/09/%E6%A8%AA%E4%B8%80%E7%BA%B5%E5%8D%81%E5%85%AD.png)
 
+当y方向的速度是x方向的无理数倍时，焦点不固定，不呈周期性：
 
+![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/09/%E6%A0%B9%E5%8F%B7%E4%BA%8C.png)
+
+经历更长时间后，质点运动轨迹将覆盖整个区域(此图时间为上图时间的100倍)：
+
+![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/09/%E6%A0%B9%E5%8F%B7%E4%BA%8C%E5%8A%A0%E9%95%BF%E7%89%88.png)
+
+###圆形边界
 
 
 

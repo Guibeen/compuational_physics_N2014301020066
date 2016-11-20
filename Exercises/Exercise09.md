@@ -24,7 +24,6 @@
 ![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20%5Cvec%7Bv%7D_%7Bi%2C%5Cperp%7D%3D%28%5Cvec%7Bv%7D_i%5Ccdot%20%5Chat%7Bn%7D%29%5Chat%7Bn%7D)
 
 ![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20%5Cvec%7Bv%7D_%7Bi%2C%5Cparallel%20%7D%3D%5Cvec%7Bv%7D_i-%5Cvec%7Bv%7D_%7Bi%2C%5Cperp%7D)
-
 由于是完全弹性碰撞，入射角与反射角相等，因此碰撞后：
 
 ![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20%5Cvec%7Bv%7D_%7Bf%2C%5Cperp%20%7D%3D-%5Cvec%7Bv%7D_%7Bi%2C%5Cperp%20%7D)
@@ -41,7 +40,7 @@
 
 
 并记![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20%5Chat%7Bn%7D%3Da%5Chat%7Bi%7D&plus;b%5Chat%7Bj%7D)
-
+*
 解出碰撞后的速度分量：
 
 ![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20v_%7Bf%2Cx%7D%3D%281-2a%5E2%29v_%7Bi%2Cx%7D-2abv_%7Bi%2Cy%7D)
@@ -96,10 +95,27 @@ y=0处的相空间：
 
 ![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/09/%E7%8E%AF%E5%BD%A2%E7%A3%81%E5%9C%BA.png)
 
+###关于混合场中的运动
 
+这是高中物理竞赛是曾经碰到的问题。带电粒子以某一初速度入射匀强电场与匀强磁场的混合场中，，不计重力。匀强电场和匀强磁场的方向垂直(或至少有垂直的分量)，且入射带电粒子的方向与磁场方向垂直。求例子以后的运动。
 
+当时所给的方法是将粒子的速度分解。由于电厂、磁场不变，所以一定能找一个速度，是的粒子以这个速度运动时，洛伦兹力刚好与电场力相抵消。此为一个分量。将此分量分解后，由于电场的作用被抵消，离子的另一个分量将只受磁场影响而做匀速圆周运动。粒子的运动就是这两个运动的合成，即螺旋运动。
 
+现在用欧勒法来模拟这一过程。
 
+[代码](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/codes/09/3-31-mixed%20field.py)
+
+过程中将问题做了一定简化：磁场与电场大小均为一个单位(电场沿+x方向，磁场向外)，粒子沿-y轴方向入射、速度大小正好为E/B的一半.
+
+如此，按照前面所述的方法，粒子将沿着-y轴方向做螺线运动。
+
+![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/09/%E5%B1%8F%E5%B9%95%E6%8D%95%E8%8E%B7_2016_11_21_01_14_53_804.png)
+
+越向下运动半径越大(说明速度在变大)，似乎出了欧勒法处理单摆的时候的一样的问题。。。那就用欧勒-克罗默方法再来一次
+
+[代码](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/codes/09/3.31-mixed%20field-2.0.py)
+
+![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/09/%E5%AE%8C%E7%BE%8E%EF%BC%81.png)
 
 
 

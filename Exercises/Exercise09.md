@@ -102,7 +102,7 @@ y=0处的相空间：
 
 ![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/09/%E7%8E%AF%E5%BD%A2%E7%A3%81%E5%9C%BA.png)
 
-###关于混合场中的运动
+###关于混合场中的运动(此部分是延伸内容，与作业无关)
 
 ![](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/images/09/%E6%B7%B7%E5%90%88%E5%9C%BA.png)
 
@@ -159,6 +159,7 @@ y=0处的相空间：
 ##参考
 
 计算物理（第二版）
+
 刘星辰@Xc-liu的代码 
 
 

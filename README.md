@@ -1,7 +1,6 @@
 姚贵斌 的作业本
 ####学号： 2014301020066
 
-
 ---
 代码的世界原来如此有趣，在简单易学的Python语言的帮助下，希望能将这门课程学好，更希望走进代码的世界！
 
@@ -25,7 +24,7 @@
 
 - [x] [第九次作业](https://github.com/Guibeen/compuational_physics_N2014301020066/blob/master/Exercises/Exercise09.md)
 
-- [ ] [第十次作业](https://www.zybuluo.com/Guibeen/note/548615)
+- [x] [第十次作业](https://www.zybuluo.com/Guibeen/note/548615)
 
 - [ ] 第十一次作业
 

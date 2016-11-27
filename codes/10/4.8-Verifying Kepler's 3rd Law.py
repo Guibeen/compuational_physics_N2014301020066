@@ -1,12 +1,12 @@
 import math
 import pylab as pl
-x_0 = 1.0
+x_0 = 2.0
 y_0 = 0.0
 v_x_0 = 0
 v_y_0 = 1*math.pi
 GMs = 4*math.pi**2
-r_0 = 1.0
-wht = 2.0
+r_0 = (x_0**2+y_0**2)**0.5
+wht = 1000.0
 dt = 0.0001
 x = []
 y = []
@@ -15,7 +15,7 @@ v_y = []
 r = []
 t = [0]
 T = [0.0]
-A = [1.0]
+A = [r_0]
 x.append(x_0)
 y.append(y_0)
 v_x.append(v_x_0)
@@ -53,16 +53,15 @@ for i in range(int(wht/dt)):
                 break
 T_1 = []
 A_1 = []
+print(' ')
 print('前三个周期的半长轴的立方与周期的平方的比值依次为：')
 for k in range(3):
     T_1.append(T[2*k+2]-T[2*k])
     A_1.append((abs(A[2*k])+abs(A[2*k+1]))/2)
-    
     print(float(A_1[-1]**3/T_1[-1]**2))
-    
 pl.plot(x,y)
-pl.title(u'$x=1,y=0,v_x=0,v_y=\pi$',fontsize=14)
+pl.title(u'$x=2,y=0,v_x=0,v_y=\pi$',fontsize=14)
 pl.xlabel(u'x(AU)',fontsize=14)
 pl.ylabel(u'y(AU)',fontsize=14)
-pl.xlim(-0.5,1.3)
-pl.ylim(-0.6,0.6)
+pl.xlim(-1.5,2.7)
+pl.ylim(-1.4,1.4)

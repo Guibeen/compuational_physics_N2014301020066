@@ -30,6 +30,6 @@
 
 - [x] [第十二次作业](https://www.zybuluo.com/Guibeen/note/597591)
 
-- [ ] 第十三次作业
+- [ ] [第十三次作业](https://www.zybuluo.com/Guibeen/note/603705)
 
 - [ ] 第十四次作业

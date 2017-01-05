@@ -29,10 +29,6 @@ def mcstep():
             elif x<math.exp(-Ef[i][j]*beta):
                 s[i][j] = -1*s[i][j]
     return None
-
-def calmag():
-    mag.append(np.sum(s)/(L*L))
-    return None
 def showresult():
     pl.plot(T0,Mag,'+',label='M')
     pl.title('Ising model Magnetization vs.temperature')
@@ -46,9 +42,9 @@ for i in range(80):
     T = (1+i)/16
     beta = 1/T
     T0.append(T)
-    for j in range(step):
+    for j in range(step):               # To reach equilibrium
         mcstep()    
-    for k in range(step):
+    for k in range(step):               # For calculate
         mag[k] = np.sum(s)/(L*L)
         mcstep()    
     #calenergy()

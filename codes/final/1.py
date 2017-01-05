@@ -9,21 +9,21 @@ import numpy as np
 import math
 
 L = 10
-Ef = [[0 for i in range(L)]for j in range(L)]      #Eflip, with unit J
-s  = [[1 for i in range(L)]for j in range(L)]      #spin
+Ef = [[0 for i in range(L)]for j in range(L)]      # Eflip, with unit J
+s  = [[1 for i in range(L)]for j in range(L)]      # spin
 step = 1000
-Mag = []                                           #Magnetization
-te = []                                            #total energy
+Mag = []                                           # Magnetization
+te = []                                            # total energy
 e  = []
-T  = 4.0                                           #with unit J/kb
-beta = 1/T                                         #with unit 1/J
+T  = 4.0                                           # with unit J/kb
+beta = 1/T                                         # with unit 1/J
 
-for k in range(step):                              #Monte Carlo step
+for k in range(step):                              # Monte Carlo step
     Mag.append(np.sum(s)/(L*L))
     for i in range(L):
         for j in range(L):
             x = random.random()
-            if i==L-1:
+            if i==L-1:                             # periodic boundary condition
                 i=-1
             if j==L-1:
                 j=-1

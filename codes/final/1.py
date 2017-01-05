@@ -13,8 +13,6 @@ Ef = [[0 for i in range(L)]for j in range(L)]      # Eflip, with unit J
 s  = [[1 for i in range(L)]for j in range(L)]      # spin
 step = 1000
 Mag = []                                           # Magnetization
-te = []                                            # total energy
-e  = []
 T  = 4.0                                           # with unit J/kb
 beta = 1/T                                         # with unit 1/J
 
@@ -35,9 +33,11 @@ for k in range(step):                              # Monte Carlo step
 
     te.append(np.sum(Ef)/(-4))
     e.append(np.sum(Ef)/(-4*L*L))
+
 t=[]
 for i in range(step):
     t.append(i)
+    
 pl.plot(t,Mag,label='T='+str(T))
 pl.legend()
 #pl.plot(t,e)

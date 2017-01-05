@@ -15,7 +15,7 @@ step = 1000
 Mag = []                                           #Magnetization
 te = []                                            #total energy
 e  = []
-T  = 4.0                                             #with unit J/kb
+T  = 4.0                                           #with unit J/kb
 beta = 1/T                                         #with unit 1/J
 
 for k in range(step):                              #Monte Carlo step
